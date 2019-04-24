@@ -84,6 +84,7 @@ body {
 
 .content {
     grid-column: 2 / -1;
+
     /** USING TEMPLATE AREA */
     grid-area: c;
 }
