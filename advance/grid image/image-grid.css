@@ -1,10 +1,11 @@
-.container>div {
+/* .container>div {
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 2em;
     color: #ffeead;
-}
+
+} */
 
 .container>div>img {
     width: 100%;
